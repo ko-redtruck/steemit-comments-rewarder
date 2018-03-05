@@ -1,5 +1,4 @@
 from steem import Steem
-import pprint
 import random
 
 node = ["https://api.steemit.com"]
